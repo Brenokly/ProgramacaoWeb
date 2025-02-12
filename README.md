@@ -88,7 +88,6 @@ ProgramacaoWeb/
 ## Contribuidores
 - [Brenokly](https://github.com/Brenokly)
 - [Afonso017](https://github.com/Afonso017)
-- [shymagoto](https://github.com/shymagoto)
 
 ## Como Executar o Projeto
 1. Clone este repositório:
